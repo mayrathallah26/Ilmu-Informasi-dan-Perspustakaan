@@ -1,2 +1,2 @@
-# Ilmu-Informasi-dan-Perspustakaan
+# Ilmu-Informasi-dan-Perpustakaan
 IIP
